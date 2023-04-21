@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://lorengcodes.netlify.app">LorenGcodes.com</a>
 
-- 💬 Ask me about **HTML / Javascript/ React**
+- 💬 Ask me about **HTML / Javascript / React**
 
 - 📫 How to reach me **loren.lgayle@gmail.com**
 

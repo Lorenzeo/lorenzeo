@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lorenzeo&label=Profile%20views&color=0e75b6&style=flat" alt="lorenzeo" /> </p>
 
-<p align="left"> <a href="https://twitter.com/renobang" target="blank"><img src="https://img.shields.io/twitter/follow/LorenG.codes?logo=twitter&style=for-the-badge" alt="reno_bang" /></a> </p>
+<p align="left"> <a href="https://twitter.com/lorengcodes" target="blank"><img src="https://img.shields.io/twitter/follow/LorenG.codes?logo=twitter&style=for-the-badge" alt="reno_bang" /></a> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Figma as a wireframe**
 
 - 👨‍💻 All of my projects are available at <a href="https://lorengcodes.netlify.app">LorenGcodes.com</a>
 

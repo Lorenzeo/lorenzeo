@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://lorengcodes.netlify.app">LorenGcodes.com</a>
 
-- 💬 Ask me about **HTML / Javascript / React**
+- 💬 Ask me about **Javascript / React / Node**
 
 - 📫 How to reach me **loren.lgayle@gmail.com**
 
@@ -19,9 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/reno_bang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="reno_bang" height="30" width="40" /></a>
+<a href="https://twitter.com/reno_bang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lorengcodes" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lorengayle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lorengayle" height="30" width="40" /></a>
-<a href="https://instagram.com/lorenzeo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lorenzeo" height="30" width="40" /></a>
+<a href="https://instagram.com/lorengcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lorenzeo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
